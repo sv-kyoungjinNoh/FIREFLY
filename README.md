@@ -7,9 +7,12 @@ Code will be update coming soon!
 Method
 1. Registration and Vessel Extraction of FA Frames
 ![drawing alt text](https://docs.google.com/drawings/d/18QkSozUjbhO82psF1kfE6xpGPN90V-wGtu0fJvmokDI/export/png)
+
 2. Registration of FA and Fundus image
 ![drawing alt text](https://docs.google.com/drawings/d/1aw6Pwv-o2xb1BObZENspnB2iGiWWN34eKoKDbxT_rCc/export/png)
+
 3. Postprocessing
-4.Self-Training
+![drawing alt text](https://docs.google.com/drawings/d/1FqjAvwObMWQp4OxPiUYPoLkqY0_djtmMHlNLuu-iFxE/export/png)
 
-
+4. Self-Training
+![drawing alt text](https://docs.google.com/drawings/d/1RTmcClFZY4E4erEYMhEc3f3jq68_Adv7PCYEKpPPo44/export/png)
