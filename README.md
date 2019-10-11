@@ -19,4 +19,4 @@ Method
 
 Result
 1. a
-![drawing alt text](https://docs.google.com/drawings/d/18QkSozUjbhO82psF1kfE6xpGPN90V-wGtu0fJvmokDI/export/png)
+![drawing alt text](https://docs.google.com/drawings/d/1oeAMFWDjx3b3783G_URXbvW4rqj4zXxJApnTha4iyc0/export/png)
