@@ -17,5 +17,6 @@ Method
 4. Self-Training
 ![drawing alt text](https://docs.google.com/drawings/d/1RTmcClFZY4E4erEYMhEc3f3jq68_Adv7PCYEKpPPo44/export/png)
 
-result
+Result
+
 ![drawing alt text](https://docs.google.com/drawings/d/1oeAMFWDjx3b3783G_URXbvW4rqj4zXxJApnTha4iyc0/exprt/png)
