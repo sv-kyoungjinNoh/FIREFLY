@@ -2,6 +2,8 @@
 
 Papre: MICCAI 2019 submission : [Fine-Scale Vessel Extraction in Fundus Images by Registration with Fluorescein Angiography](https://doi.org/10.1007/978-3-030-32239-7_86)
 
+MICCAI 2019 poster : ![img/MICCAI_2019_poster.pdf](img/MICCAI_2019_poster.pdf)
+
 Code will be updated coming soon!
 <!--
 Method
@@ -19,4 +21,4 @@ Result
 <!--
 ![drawing alt text](https://docs.google.com/drawings/d/1oeAMFWDjx3b3783G_URXbvW4rqj4zXxJApnTha4iyc0/export/png)
 -->
-![img/MICCAI_2019_poster.pdf](img/MICCAI_2019_poster.pdf)
+
