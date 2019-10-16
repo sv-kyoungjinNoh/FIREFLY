@@ -20,4 +20,4 @@ Method
 Result
 ![drawing alt text](https://docs.google.com/drawings/d/1oeAMFWDjx3b3783G_URXbvW4rqj4zXxJApnTha4iyc0/export/png)
 
-![img/MICCAI 2019 poster.pdf](img/MICCAI 2019 poster.pdf)
+![img/MICCAI_2019_poster.pdf](img/MICCAI_2019_poster.pdf)
