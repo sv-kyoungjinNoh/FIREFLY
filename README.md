@@ -1,6 +1,6 @@
 # Fine-Scale Vessel Extraction in Fundus Images by Registration with Fluorescein Angiography
 
-Papre: MICCAI 2019 submission : [Fine-Scale Vessel Extraction in Fundus Images by Registration with Fluorescein Angiography](https://doi.org/10.1007/978-3-030-32239-7_86)
+Papre: MICCAI 2019 submission, [Fine-Scale Vessel Extraction in Fundus Images by Registration with Fluorescein Angiography](https://doi.org/10.1007/978-3-030-32239-7_86)
 
 MICCAI 2019 poster : ![img/MICCAI_2019_poster.pdf](img/MICCAI_2019_poster.pdf)
 
